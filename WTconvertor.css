@@ -1,0 +1,49 @@
+
+body{
+    /* background-color: rgb(151, 147, 144); */
+    background-image: linear-gradient(180deg, grey, rgb(173, 214, 214));
+    height: 100vh;
+}
+.column{
+
+    text-align: center;
+    font-size: 1.5rem;
+    /* display: flex; */
+    /* align-items: center; */
+}
+/* .column h1{
+    margin-right: 60px;
+} */
+#lbsinput{
+    width: 32%;
+    height: 35px;
+    font-size: 15px;
+    /* box-sizing: border-box;   */
+    padding-left: 8px;
+}
+.card h4{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+#output{
+    margin-top:3rem;
+}
+
+.card{
+    margin: 5px auto;
+    border: 0.5px solid black;
+    width: 32%;
+    height: 4rem;
+    border-radius: 4px;
+    overflow: hidden;
+    /* padding: 5%; */
+}
+
+.classcard{
+    text-align: left;
+    display: flex;
+}
+
+.classcard h4{
+    margin-right: 0.75rem;
+}
